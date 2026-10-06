@@ -38,6 +38,9 @@ Kaiju is a purely mechanical project: this repository holds no board, firmware o
 | `8_References/` | external reference documents |
 | `9_Assets/` | README and documentation images; showcase sheet `zurp.yml` and poster, read by the zUrp site |
 
-## License
+## Licenses
 
-Licensing: this repository is under OCL v1.1 ([`LICENSE`](LICENSE)). The datasheets in `0_Datasheets/` and the documents in `8_References/` belong to their authors.
+- Hardware: [`LICENSE-HARDWARE`](LICENSE-HARDWARE) — Open Community License (OCL v1.1)
+- Software: none — this repository holds no software.
+
+The datasheets in `0_Datasheets/` and the documents in `8_References/` belong to their authors.
