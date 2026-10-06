@@ -1,0 +1,44 @@
+# SOURCE: kaiju — fiche vitrine de Kaiju, lue par le site zurp-astronomics.github.io
+# AUTHOR: architect (texte : le pitch de l'humain, validé au terminal le 2026-10-06)
+# DATE: 2026-10-06
+# STATUS: active — remplace la fiche transcrite par le site (src/data/products.ts), décision de l'humain
+#
+# Le site lit cette fiche au build, avec l'affiche à côté. Tout le texte est en ANGLAIS (langue du
+# site). Aucune caractéristique technique inventée : rien qui ne soit donné par l'humain.
+#
+# Déduit, donc ABSENT d'ici (un champ en trop fait échouer le build du site) : le slug (nom du dépôt
+# en minuscules → /kaiju/ ; ne pas renommer le dépôt), l'URL du dépôt, la version (tag de la
+# dernière release GitHub), le rang dans sa section, la licence (détectée dans LICENSE).
+
+name: Kaiju
+tagline: >-
+  The final boss of DIY astro: a free, open-source SeeStar on steroids.
+slogan: Over-engineered by principle   # tel qu'écrit sur l'affiche
+category: Mount
+section: mounts           # mounts | cameras | gadgets | future
+status: wip               # wip | future | released — décidé par l'humain, jamais déduit d'une release
+
+description:
+  - >-
+    Smart telescopes are cute: sealed plastic, a tiny sensor behind a tiny lens, and an app that
+    tells you what you're allowed to do. Kaiju takes the same all-in-one idea and removes every
+    limit.
+  - >-
+    A harmonic alt-az head with an Intel N100 inside — a real computer, not a toy chip — carrying a
+    Samyang AF 135 mm f/1.8 and an APS-C camera. It's built to crush the plastic boxes, not to
+    compete with them.
+  - >-
+    Kaiju is where the whole zUrp bestiary ends up: Maelstrom behind the glass, Basilisk driving the
+    lens, Kraken feeding the power, Unicorn moving the axes. About 5,000 hours of astro tinkering,
+    condensed into one machine.
+  - >-
+    Glorious and shiny, but made the low-tech way: it smells of cold coffee, solder flux and a 3D
+    printer that hasn't cooled down in weeks. One cave we refuse to enter is grinding glass. For
+    everything else, buying is cheating.
+
+poster: kaiju.webp        # à côté de cette fiche — l'affiche série 2 (1254 × 1254)
+posterAlt: >-
+  Kaiju poster on a worn, chipped cream plate: a red-and-steel armoured mechanical kaiju with
+  glowing red eyes roars in front of a pale full moon, one clawed hand thrust forward, between red
+  rays and blueprint sketches of itself, above the slogan “Over-engineered by principle”.
+accent: '#d81f15'         # couleur des rayons de l'affiche
