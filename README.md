@@ -1,6 +1,13 @@
-<!-- En-tête vitrine : remplacer ce commentaire par le bloc de
-     https://github.com/zUrp-Astronomics/.github/blob/main/readme-kit/repos/kaiju.md
-     (affiche + badge de statut, servis par le site). Collé une fois, il se met à jour seul. -->
+<!-- zurp-readme-header:begin — paste this block once, never again: the poster and the badges update themselves at each build of the site — do not edit it -->
+<div align="center">
+
+<a href="https://zurp-astronomics.github.io/kaiju/"><img src="https://zurp-astronomics.github.io/brand/posters/kaiju.webp" alt="zUrp Astronomics product poster" width="420"></a>
+
+![status](https://img.shields.io/endpoint?url=https%3A%2F%2Fzurp-astronomics.github.io%2Fbrand%2Fstatus%2Fkaiju.json)
+
+</div>
+
+<!-- zurp-readme-header:end -->
 
 # Kaiju — Alt-az Mount
 
