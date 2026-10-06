@@ -1,7 +1,8 @@
 # SOURCE: kaiju — fiche vitrine de Kaiju, lue par le site zurp-astronomics.github.io
 # AUTHOR: architect (texte : le pitch de l'humain, validé au terminal le 2026-10-06)
 # DATE: 2026-10-06
-# STATUS: active — remplace la fiche transcrite par le site (src/data/products.ts), décision de l'humain
+# STATUS: active — affiche « or » (série 2.2) en place le 2026-10-06, décision de l'humain ; l'originale
+#         rouge reste à côté (kaiju.webp), le site ne lit que celle nommée par poster:
 #
 # Le site lit cette fiche au build, avec l'affiche à côté. Tout le texte est en ANGLAIS (langue du
 # site). Aucune caractéristique technique inventée : rien qui ne soit donné par l'humain.
@@ -36,9 +37,9 @@ description:
     printer that hasn't cooled down in weeks. One cave we refuse to enter is grinding glass. For
     everything else, buying is cheating.
 
-poster: kaiju.webp        # à côté de cette fiche — l'affiche série 2 (1254 × 1254)
+poster: kaiju-gold.png    # à côté de cette fiche — l'affiche « or », série 2.2 (1254 × 1254)
 posterAlt: >-
-  Kaiju poster on a worn, chipped cream plate: a red-and-steel armoured mechanical kaiju with
-  glowing red eyes roars in front of a pale full moon, one clawed hand thrust forward, between red
-  rays and blueprint sketches of itself, above the slogan “Over-engineered by principle”.
-accent: '#d81f15'         # couleur des rayons de l'affiche
+  Kaiju poster on a worn, chipped cream plate: a gold-and-steel armoured mechanical kaiju with
+  glowing golden eyes roars in front of a pale full moon, one clawed hand thrust forward, between
+  golden rays and blueprint sketches of itself, above the slogan “Over-engineered by principle”.
+accent: '#d0913b'         # couleur des rayons de l'affiche (médiane relevée sur la 2.2 « or »)
