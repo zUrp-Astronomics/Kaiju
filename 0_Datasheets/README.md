@@ -1,9 +1,8 @@
 # 0_Datasheets
 
 **Date** : 2026-10-06
+**Dernière révision** : 2026-10-06 — réduit à une phrase (MAJ dépôts produit)
 **Statut** : actif
 **Référencé par** : `README.md` (§ Repository layout)
 
-Les datasheets des composants mécaniques et des modules achetés utilisés par Kaiju (PDF du fabricant, nom d'origine). Rien de produit par le projet.
-
-Les datasheets de l'électronique vivent dans [Unicorn](https://github.com/zUrp-Astronomics/Unicorn), le contrôleur de monture zUrp.
+Les datasheets des composants utilisés (PDF du fabricant, nom d'origine).
