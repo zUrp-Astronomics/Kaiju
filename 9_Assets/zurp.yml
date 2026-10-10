@@ -1,8 +1,8 @@
 # SOURCE: kaiju — fiche vitrine de Kaiju, lue par le site zurp-astronomics.github.io
 # AUTHOR: architect (texte : le pitch de l'humain, validé au terminal le 2026-10-06)
 # DATE: 2026-10-06
-# STATUS: active — affiche « or » (série 2.2) en place le 2026-10-06, décision de l'humain ; l'originale
-#         rouge reste à côté (kaiju.webp), le site ne lit que celle nommée par poster:
+# STATUS: active — affiche « or » (série 2.2), décision de l'humain du 2026-10-06 ; en WebP depuis la
+#         campagne #81 de l'org (2026-10-10)
 #
 # Le site lit cette fiche au build, avec l'affiche à côté. Tout le texte est en ANGLAIS (langue du
 # site). Aucune caractéristique technique inventée : rien qui ne soit donné par l'humain.
@@ -37,7 +37,7 @@ description:
     printer that hasn't cooled down in weeks. One cave we refuse to enter is grinding glass. For
     everything else, buying is cheating.
 
-poster: kaiju-gold.png    # à côté de cette fiche — l'affiche « or », série 2.2 (1254 × 1254)
+poster: kaiju.webp        # à côté de cette fiche — l'affiche « or », série 2.2 (1254 × 1254)
 posterAlt: >-
   Kaiju poster on a worn, chipped cream plate: a gold-and-steel armoured mechanical kaiju with
   glowing golden eyes roars in front of a pale full moon, one clawed hand thrust forward, between

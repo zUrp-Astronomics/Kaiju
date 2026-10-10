@@ -1,8 +1,16 @@
 # 9_Assets
 
-**Date** : 2026-10-06
-**Dernière révision** : 2026-10-06 — réduit à une phrase (MAJ dépôts produit)
-**Statut** : actif
-**Référencé par** : `README.md` (§ Repository layout), le site zurp-astronomics.github.io
+The showcase of Kaiju: what the [zUrp Astronomics website](https://zurp-astronomics.github.io/kaiju/) and this repository's
+README display. It belongs to the zUrp Astronomics organisation, which keeps it consistent across
+all its products.
 
-Les ressources pour l'extérieur, et la vitrine lue par le site : la fiche `zurp.yml` et l'affiche qu'elle nomme (`kaiju-gold.png`), l'originale rouge `kaiju.webp` gardée à côté.
+| File | What it is | Shown on |
+|---|---|---|
+| `zurp.yml` | the product sheet: name, tagline, slogan, section, status, description, accent colour | the website, the organisation README |
+| `kaiju.webp` | the poster, 1254 × 1254 | the website, the README header |
+
+Images here are WebP copies sized for display. Full-size originals stay where they are produced (`1_Board/`, `2_Hardware/`…).
+
+The sheet is read and checked by the website at each build: its format is described in
+[`content/README.md`](https://github.com/zUrp-Astronomics/zurp-astronomics.github.io/blob/main/content/README.md)
+of the website's repository.
