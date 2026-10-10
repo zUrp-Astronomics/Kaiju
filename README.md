@@ -13,7 +13,7 @@
 
 <h1 align="center">Kaiju</h1>
 
-<p align="center"><strong><em>Over-engineered by principle.</em></strong></p>
+<p align="center"><strong><em>Over-engineered by principle</em></strong></p>
 
 <p align="center">
   <a href="https://zurp-astronomics.github.io/kaiju/">Website</a> ·
